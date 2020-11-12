@@ -14,4 +14,4 @@ For all the works we used atmega32 microcontroller and we designed a mobile app 
 Our team members worked hard day by day to achive this target.❤️
 
 <img width=“964” alt=“app” 
-src=“https://github.com/PulsaraSandeepa/Healthy-Honey-Apiary/blob/master/App.jpg”>
+src="https://github.com/PulsaraSandeepa/Healthy-Honey-Apiary/blob/master/App.jpg">
