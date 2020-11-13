@@ -16,14 +16,14 @@ And we successfully done our project within a year.
 For all the works we used atmega32 microcontroller and we designed a mobile app that can check every condition of the beehive. 
 Our team members worked hard day by day to achive this target.❤️
 
-<img width="200" alt="app" 
-src="https://github.com/PulsaraSandeepa/Healthy-Honey-Apiary/blob/master/App.jpg">
-
 ### App designed in
-
 ```
 http://ai2.appinventor.mit.edu/
 ```
+
+
+<img width="200" alt="app" 
+src="https://github.com/PulsaraSandeepa/Healthy-Honey-Apiary/blob/master/App.jpg">
 
 <img width="500" alt="app" 
 src="https://github.com/PulsaraSandeepa/Healthy-Honey-Apiary/blob/master/Project.jpg">
