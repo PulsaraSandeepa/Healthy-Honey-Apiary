@@ -1,6 +1,10 @@
 ## Healthy-Honey-Apiary
 First year hardware project by IT faculty University of Moratuwa
 
+[![Test Status](https://github.com/gobuffalo/tags/workflows/Tests/badge.svg)](https://github.com/gobuffalo/tags/actions)
+ [![Go Report Card](https://goreportcard.com/badge/github.com/gobuffalo/tags)](https://goreportcard.com/report/github.com/gobuffalo/tags)
+
+
 Our project was to design a beehive that gets maximum harvest.
 In most beehives users cannot obtain the maximum harvest because of various reasons that happens to bees such as,
 1. Temperature, humidity changes.
