@@ -1,8 +1,7 @@
-## Healthy-Honey-Apiary
+### Healthy-Honey-Apiary
 First year hardware project by IT faculty University of Moratuwa
 
 [![Test Status](https://github.com/gobuffalo/tags/workflows/Tests/badge.svg)](https://github.com/gobuffalo/tags/actions)
- [![Go Report Card](https://goreportcard.com/badge/github.com/gobuffalo/tags)](https://goreportcard.com/report/github.com/gobuffalo/tags)
 
 
 Our project was to design a beehive that gets maximum harvest.
@@ -19,6 +18,12 @@ Our team members worked hard day by day to achive this target.❤️
 
 <img width="200" alt="app" 
 src="https://github.com/PulsaraSandeepa/Healthy-Honey-Apiary/blob/master/App.jpg">
+
+### App designed in
+
+```
+http://ai2.appinventor.mit.edu/
+```
 
 <img width="500" alt="app" 
 src="https://github.com/PulsaraSandeepa/Healthy-Honey-Apiary/blob/master/Project.jpg">
