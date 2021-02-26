@@ -102,7 +102,7 @@ int main(void)
 
 		while ((TIFR & (1 << ICF1)) == 0);/* Wait for falling edge */
 		count = ICR1 + (65535 * TimerOverflow);	/* Take count */
-		/* 8MHz Timer freq, sound speed =343 m/s */
+		/* 16MHz Timer freq, sound speed =343 m/s */
 		distance = (double)count / 466.47;
 
 		/*dtostrf(distance, 2, 2, string); distance to string 
