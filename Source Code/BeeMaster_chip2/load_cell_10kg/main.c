@@ -133,7 +133,7 @@ TCCR1B = (1<<WGM12)|(1<<WGM13)|(1<<CS10)|(1<<CS11);
 	while(1) {
 	
 	////////////////Smoke Box//////////////
-	if(PIND & (1<<PD0)) //If switch is pressed
+	if(PINA & (1<<PA5)) //If switch is pressed
 	{
 		PORTC |= (1<<PC7); //Turns ON LED
 		_delay_ms(1000); //3 second delay
