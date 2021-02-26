@@ -192,13 +192,13 @@ lcd_puts("Temp = ");
 		}
 		if(I_Temp<=30)//////////////////////////////
 		{
-			DDRD=0b00000001;
-			PORTD |=(1<<PD0);///port D0 high{
+			DDRD=0b00000100;
+			PORTD |=(1<<PD2);///port D2 high{
 			}
 			else
 			{
-				DDRD=0b00000001;
-				PORTD &=~(1<<PD0);
+				DDRD=0b00000100;
+				PORTD &=~(1<<PD2);
 			}
 /////////////////Fan system/////////////////////////////////
 
